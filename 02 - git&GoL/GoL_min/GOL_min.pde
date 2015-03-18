@@ -1,4 +1,4 @@
-//LOSOWA MATRYCA
+//LOSOWA MATRYCA wersja konara
 
 int dim = 20; boolean [ ] [ ] cells = new boolean[dim][dim];
 
