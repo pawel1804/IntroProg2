@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 //LOSOWA MATRYCA wersja konara bang bang bang
+=======
+// to jest wersja by argian
+
+//LOSOWA MATRYCA
+>>>>>>> origin/master
 
 int dim = 20; boolean [ ] [ ] cells = new boolean[dim][dim];
 
